@@ -1,0 +1,16 @@
+
+
+body{
+background-color: #191970;
+}
+#container {
+background-color: #00FF00;
+border: 1px solid #FF0000;
+margin: 0 250px 0 250px;
+
+}
+#content {
+background-color: #00ff00;
+border: 2px solid #FF00FF;
+margin: 20px 200px 20px 200px;
+}
